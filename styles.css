@@ -1,7 +1,6 @@
 :root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
-    --botao-azul: #167BF7;
     --cor-de-fundo: #000000;
     --fonte-principal: 'Inter';
     --botao-azul-efeito: #757679;
@@ -32,17 +31,6 @@ body {
     height: 100vh;
     display: grid;
     grid-template-columns: 50% 50%;
-}
-
-.container__botao {
-    background-color: var(--botao-azul);
-    border-radius: 5px;
-    padding: 1em;
-    color: var(--branco-principal);
-    display: block;
-    text-decoration: none;
-    margin-bottom: 1em;
-}
 
 .botao_secundario {
     background-color: transparent;
@@ -117,7 +105,7 @@ body {
     color: var(--branco-principal);
 }
 
-.rodape {
+.rodape {<a href="www.maiscredito.com.br"</a
     text-align: center;
     margin: 5em 3em;
 }
